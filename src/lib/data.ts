@@ -49,7 +49,7 @@ export const features: Feature[] = [
     icon: 'Sparkles',
     title: 'AI-Powered Suggestions',
     description:
-      'Our built-in AI learns your team's patterns and proactively suggests improvements, from smarter assignments to predicted delivery dates.',
+      "Our built-in AI learns your team's patterns and proactively suggests improvements, from smarter assignments to predicted delivery dates.",
   },
 ];
 
